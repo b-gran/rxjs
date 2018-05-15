@@ -14,7 +14,7 @@ RxJS v6 has removed chainable operators from the Observable prototype in favor o
 + )
 ```
 
-This change breaks **most existing `rxjs`** code. See [below]() for information about how to migrate.
+This change breaks **most existing `rxjs`** code. See [the pipe syntax section below](#operator-pipe-syntax) for migration strategies.
 
 <hr>
 
