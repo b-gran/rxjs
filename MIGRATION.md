@@ -8,6 +8,7 @@ RxJS v6 has removed chainable operators from the Observable prototype in favor o
 - someObservable.map(() => 'something').filter(() => true)
 
 + // New
++ import * as operators from 'rxjs/operators'
 + someObservable.pipe(
 +  operators.map(() => 'something'),
 +  operators.filter(() => true)
