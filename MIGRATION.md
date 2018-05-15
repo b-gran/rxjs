@@ -1,5 +1,7 @@
 # RxJS v5.x to v6 Update Guide
 
+## ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Important changes
+
 RxJS v6 has arrived! While this is a major version change (from 5.x to 6.x), 
 we've put in a lot of work to keep the hard breaking changes to a minimum. 
 In most cases, this allows application and library developers to update incrementally 
